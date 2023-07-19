@@ -17,7 +17,9 @@
   },
   "extra": {
     "acquia": {
-      "code-assembly.node_version": "20"
+      "code-assembly": {
+        "node_version": "20"
+      }
     }
   }
 }
