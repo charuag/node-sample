@@ -1,0 +1,23 @@
+{
+  "name": "node-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charuag/node-sample.git"
+  },
+  "homepage": "https://github.com/charuag/node-sample#readme",
+  "dependencies": {
+    "nodemon": "^2.0.3",
+    "request": "^2.88.2"
+  },
+  "extra": {
+    "acquia": {
+      "code-assembly.node_version": "20"
+    }
+  }
+}
